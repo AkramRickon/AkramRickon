@@ -70,11 +70,11 @@
     ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-- **Hosting**:
+<!-- - **Hosting**:
 	
    ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
    ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) -->
 
 
 <!-- - **Project Management**: -->
@@ -100,3 +100,6 @@
 </div> -->
 | <a href="https://github.com/AkramRickon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AkramRickon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="AkramRickon's github stats" /></a> | <a href="https://github.com/AkramRickon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkramRickon&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
+![](https://leetcard.jacoblin.cool/Akram_H_Rickon?theme=light)
