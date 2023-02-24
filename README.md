@@ -101,5 +101,26 @@
 | ------------- | ------------- |
 
 
-| ![](https://leetcard.jacoblin.cool/Akram_H_Rickon?theme=light)|
-| ------------- | ------------- |
+![](https://leetcard.jacoblin.cool/Akram_H_Rickon?theme=light)
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<p left="center">
+<a href="https://www.linkedin.com/in/akram-hossan-189245227/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="https://www.facebook.com/akram.hossain.148/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
+</a>
+
+<a href="mailto:akramhsin29@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+</p>
+
+<br/>
+<!-- GitHub Profile Views Counter -->
+
+![](https://komarev.com/ghpvc/?username=AkramRickon)
+
+
+
