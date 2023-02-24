@@ -49,8 +49,8 @@ Here are some ideas to get you started:
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-   ![TailwindCSS](https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-   ![Anglar Material](https://img.shields.io/badge/Anglar Material-%230081CB.svg?style=for-the-badge&logo=angular&logoColor=white)
+   ![TailwindCSS](https://img.shields.io/badge/tailwind&nbsp;css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+   ![Anglar Material](https://img.shields.io/badge/Anglar&nbsp;Material-%230081CB.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 <br>
 
