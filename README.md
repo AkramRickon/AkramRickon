@@ -13,10 +13,10 @@
 
 <br>
 
-- 💻 A passionate angular developer from Bangladesh
-- 🌱 Currently working with `javascript` and `angular`
-- 🧠 Solving problem with **javascript** is my hobby
-- 🗨 Ask me about **javascript, angular and css*
+- 💻 A passionate `Angular` developer from Bangladesh
+- 🌱 Currently working with `Javascript` and `Angular`
+- 🧠 Solving problem with **`Javascript`** is my hobby
+- 🗨 Ask me about `Javascript`, `Angular` and `CSS`
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
