@@ -16,7 +16,7 @@
 - 💻 A passionate `Angular` developer from Bangladesh
 - 🌱 Currently working with `Javascript` and `Angular`
 - 🧠 Solving problem with **`Javascript`** is my hobby
-- 🗨 Ask me about `Javascript`, `Angular` and `CSS`
+- 🗨 Ask me about `Javascript`•`Angular`•`CSS`
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
