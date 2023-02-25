@@ -14,7 +14,7 @@
 <br>
 
 - 💻 A passionate angular developer from Bangladesh
-- 🌱 Currently working with **javascript and angular**
+- 🌱 Currently working with `javascript` and `angular`
 - 🧠 Solving problem with **javascript** is my hobby
 - 🗨 Ask me about **javascript, angular and css*
 
