@@ -68,19 +68,20 @@
     ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-- **Hosting**:
+<!-- - **Hosting**:
 	
    ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-   ![Vercel](https://img.shields.io/badge/vercel-00A95C.svg?style=for-the-badge&logo=vercel&logoColor=white)
+   ![Vercel](https://img.shields.io/badge/vercel-00A95C.svg?style=for-the-badge&logo=vercel&logoColor=white) -->
 
 
 <!-- - **Project Management**: -->
 	
 - **Extras**:
 	
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
       
 </p>
 <br><br>
