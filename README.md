@@ -51,9 +51,9 @@
    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <!--    ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) -->
 	
-	![JWT](https://img.shields.io/badge/JWT-D63AFF?style=for-the-badge&logo=JSON%20web%20tokens)
+<!-- 	![JWT](https://img.shields.io/badge/JWT-D63AFF?style=for-the-badge&logo=JSON%20web%20tokens) -->
 	
-<!-- 	https://img.shields.io/badge/JWT-FF007F?style=for-the-badge&logo=JSON%20web%20tokens -->
+	![JWT](https://img.shields.io/badge/JWT-FF007F?style=for-the-badge&logo=JSON%20web%20tokens)
 	
 
 
