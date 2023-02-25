@@ -102,7 +102,8 @@
 | <a href="https://github.com/AkramRickon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AkramRickon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="AkramRickon's github stats" /></a> | <a href="https://github.com/AkramRickon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkramRickon&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Leetcode Stats </b>
+<br>
 ![](https://leetcard.jacoblin.cool/Akram_H_Rickon?theme=light)
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
