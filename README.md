@@ -72,8 +72,10 @@
 - **Hosting**:
 	
    ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+	
 <!--    ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) -->
-   ![Vercel](https://img.shields.io/badge/vercel-%00A95C.svg?style=for-the-badge&logo=vercel&logoColor=white)
+	
+   ![Vercel](https://img.shields.io/badge/vercel-00A95C.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 <!-- - **Project Management**: -->
